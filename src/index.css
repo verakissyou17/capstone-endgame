@@ -80,6 +80,10 @@ header p {
   margin-bottom: 0;
 }
 
+.correct-letter  {
+  border: 1.5px dashed #0B8003;
+}
+
 .correct-letter h2 {
   font-style: italic;
   font-weight: bold;
